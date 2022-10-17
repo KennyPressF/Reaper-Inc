@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2575670eaad79e2449fe2cbcb63d105b, type: 3}
+  m_Name: Profile 17
+  m_EditorClassIdentifier: 
+  profilePicture: {fileID: 21300000, guid: bb8411ccd74099a4fab8f6457e1e1c68, type: 3}
+  profileName: John Francis
+  gender: 0
+  birthDay: 18
+  birthMonth: 4
+  birthYear: 1986
+  bornBefore2000: 1
+  bornBefore1990: 1
+  bornBefore1980: 0
+  hairColour: 3
+  eyeColour: 1
+  height: 5' 10"
+  isAboveSixFoot: 0
+  hasBeenProcessed: 0
