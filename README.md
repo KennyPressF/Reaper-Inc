@@ -1,7 +1,7 @@
 # Reaper-Inc
 
 ### Overview:
-A deductive reasoning based game made for the 2021 GameDevTV game jam.
+A deductive reasoning & mathematics based game made for the 2021 GameDevTV game jam.
 
 ### Link:
 https://badbackgames.itch.io/reaper-inc
